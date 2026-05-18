@@ -50,7 +50,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
 * [Kodus](https://kodus.io/) - Open-source AI code-review tool.
-* [ecc (Everything Codex)](https://github.com/mturac/everything-openai-codex) - Cross-harness workflow system with 230+ skills, 60 agents, quality gates, and session memory.
+* [eoc (Everything OpenAI Codex)](https://github.com/mturac/everything-openai-codex) - Cross-harness workflow system with 230+ skills, 60 agents, quality gates, and session memory.
 
 ## IDEs & Code Editors
 
